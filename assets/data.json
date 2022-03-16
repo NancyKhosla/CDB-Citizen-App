@@ -1,0 +1,94 @@
+{
+    "distance1KM" : [   
+    {
+        "storeName": "Aggarwal Medical Store",
+        "address": "Noida sector 16",
+        "openingHours": "9am-9pm",
+        "phone": "1234567890",
+        "email": "29bhartiverma@gmail.com"
+    },
+    {
+        "storeName": "Tyagi Medical Store",
+        "address": "Noida sector 20",
+        "openingHours": "9am-9pm",
+        "phone": "1234567890",
+        "email": "29bhartiverma@gmail.com"
+    },
+    {
+        "storeName": "Garg Medical Store",
+        "address": "Noida sector 20",
+        "openingHours": "9am-9pm",
+        "phone": "1234567890",
+        "email": "29bhartiverma@gmail.com"
+    },
+    {
+        "storeName": "National Medical Store",
+        "address": "Ghaziabad",
+        "openingHours": "24*7",
+        "phone": "1234567890",
+        "email": "29bhartiverma@gmail.com"
+    }
+],
+
+    "distance2KM" : [
+    {
+        "storeName": "Shree Ganesh Medical Store",
+        "address": "Noida sector 16r",
+        "openingHours": "9am-9pm",
+        "phone": "1234567890",
+        "email": "29bhartiverma@gmail.com"
+    },
+    {
+        "storeName": "Tayal Medical Store",
+        "address": "Noida sector 20",
+        "openingHours": "9am-9pm",
+        "phone": "1234567890",
+        "email": "29bhartiverma@gmail.com"
+    },
+    {
+        "storeName": "Ganga Ji Medical Store",
+        "address": "Noida sector 20",
+        "openingHours": "9am-9pm",
+        "phone": "1234567890",
+        "email": "29bhartiverma@gmail.com"
+    },
+    {
+        "storeName": "Satyam Medical Store",
+        "address": "Ghaziabad",
+        "openingHours": "24*7",
+        "phone": "1234567890",
+        "email": "29bhartiverma@gmail.com"
+    }
+],
+
+"distance5KM" : [   
+    {
+        "storeName": "Aggarwal Medical Store",
+        "address": "Noida sector 16r",
+        "openingHours": "9am-9pm",
+        "phone": "1234567890",
+        "email": "29bhartiverma@gmail.com"
+    },
+    {
+        "storeName": "Tyagi Medical Store",
+        "address": "Noida sector 20",
+        "openingHours": "9am-9pm",
+        "phone": "1234567890",
+        "email": "29bhartiverma@gmail.com"
+    },
+    {
+        "storeName": "Garg Medical Store",
+        "address": "Noida sector 20",
+        "openingHours": "9am-9pm",
+        "phone": "1234567890",
+        "email": "29bhartiverma@gmail.com"
+    },
+    {
+        "storeName": "National Medical Store",
+        "address": "Ghaziabad",
+        "openingHours": "24*7",
+        "phone": "1234567890",
+        "email": "29bhartiverma@gmail.com"
+    }
+]
+    }
