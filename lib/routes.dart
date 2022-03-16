@@ -2,7 +2,6 @@
 import 'package:availablestore/Login/loggedIn.dart';
 import 'package:availablestore/Login/login.dart';
 import 'package:availablestore/home.dart';
-import 'package:availablestore/homeNew.dart';
 import 'package:flutter/material.dart';
 
 
